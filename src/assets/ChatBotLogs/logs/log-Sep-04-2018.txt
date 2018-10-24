@@ -1,0 +1,12 @@
+09/04/2018, 11:40:59 (T0+0000ms) 	 | INFO | Bot said: Hi, I’m Lizzie the Lice Lady(In BETA, still learning).   I can help you with the following 
+09/04/2018, 11:41:22 (T0+0000ms) 	 | INFO | User said: Where to buy \n\n Bot said: Which product are you trying to find?
+09/04/2018, 11:41:39 (T0+0000ms) 	 | INFO | User said: Licefreee Spray \n\n Bot said: Please Enter Zip code 
+09/04/2018, 11:41:56 (T0+0000ms) 	 | INFO | User said: 71234 \n\n Bot said: Let me think…\n Bot said: Here are the list of retailers nearby\n Bot said: Sorry I am not aware of local retailers for this product, but you can purchase on Amazon.com
+09/04/2018, 11:51:57 (T0+0000ms) 	 | INFO | User said: get me product details \n\n Bot said: Which product are you trying to find?
+09/04/2018, 11:52:20 (T0+0000ms) 	 | INFO | User said: Licefreee Kit \n\n Bot said: Please Enter Zip code 
+09/04/2018, 11:52:58 (T0+0000ms) 	 | INFO | User said: 54321 \n\n Bot said: Let me think… Sorry I am not aware of local retailers for this product, but you can purchase on Amazon.com
+09/04/2018, 11:53:24 (T0+0000ms) 	 | INFO | User said: how do lice eggs look like
+09/04/2018, 11:54:36 (T0+0000ms) 	 | INFO | User said: i am unhappy with the product \n\n Bot said: I am sorry you are not happy with Licefreee!  For a return or replacement, please complete this form: https://www.licefreee.com/en/product-returns
+09/04/2018, 11:55:39 (T0+0000ms) 	 | INFO | User said: can i use this product on furniture \n\n Bot said: Licefreee! products for your hair are not formulated to be used on furniture as they contain oils that may stain or damage surfaces. However, we now offer a furniture spray, Licefreee! Home. Learn more here: https://www.licefreee.com/en/products/licefreee!-home
+09/04/2018, 11:57:21 (T0+0000ms) 	 | INFO | User said: I am recently effected by head lice. Take several treatments and most of them proved ineffective. Got to know about this from some one and trying to use it. Any side effects for adults above 25 years. \n\n Bot said: If you are not finding any lice crawling around, and it has been long enough for any new ones to hatch (7-10 days), then you can feel confident your head lice infestation is gone.
+

@@ -1,0 +1,16 @@
+09/26/2018, 09:06:50 (T0+0000ms) 	 | INFO | \n\n Bot said: Hi, I’m Lizzie the Lice Lady(In BETA, still learning).   I can help you with the following 
+09/26/2018, 09:07:04 (T0+0000ms) 	 | INFO | User said: show products \n\n Bot said: Here are the list of products
+09/26/2018, 09:09:58 (T0+0000ms) 	 | INFO | User said: what are the ingredients ? \n\n Bot said: I think your intention is to know Ingredients, please select a product
+09/26/2018, 09:10:04 (T0+0000ms) 	 | INFO | User said: Ingredients in Home Spray \n\n Bot said: Licefreee Spray! ingredients: sodium chloride, benzyl alcohol, fragrance, poloxamer 188,  and purified water.
+09/26/2018, 09:10:36 (T0+0000ms) 	 | INFO | User said: how to use? \n\n Bot said: I think your intention is to knowing about use case, please select a product
+09/26/2018, 09:10:42 (T0+0000ms) 	 | INFO | User said: How to use Home Spray \n\n Bot said: Spray until the surface is visibly wet, approximately one once per 2.5 square feet.
+09/26/2018, 09:10:58 (T0+0000ms) 	 | INFO | User said: How to use Spray \n\n Bot said: Shake well. Remove cap and attach sprayer to bottle. Spray on dry hair, holding bottle 4-6" from the scalp. Start at hairline and work inward until hair is thoroughly saturated. All lice and nits must be in contact with the spray. Allow hair to dry naturally, do not blow dry. Once dried, dead lice and nits may be removed with the nit comb. Hair may be washed / styled any time after it is dry, or you may leave product in the hair until the next time you would normally wash your hair.
+09/26/2018, 09:24:29 (T0+0000ms) 	 | INFO | User said: Ingredients in Home Spray \n\n Bot said: Licefreee! Home Lice Spray for Furniture  Ingredients (This is an EPA product so they are listed differently): Active Ingredient: d-limonene 5%, Other Ingredients 95%
+09/26/2018, 09:28:26 (T0+0000ms) 	 | INFO | User said: show me licefreee home spray \n\n Bot said: Spray until the surface is visibly wet, approximately one once per 2.5 square feet.
+09/26/2018, 09:29:37 (T0+0000ms) 	 | INFO | User said: where i can buy ? \n\n Bot said: Sorry, I didn’t understand your question. Can you please try rephrasing?
+09/26/2018, 09:29:58 (T0+0000ms) 	 | INFO | User said: where i can buy licefreee products \n\n Bot said: Please Enter Zip code 
+09/26/2018, 09:30:05 (T0+0000ms) 	 | INFO | User said: 97321 \n\n Bot said: Let me think… Here are the list of retailers nearby
+10/03/2018, 17:16:28 (T0+0000ms) 	 | INFO | Bot said: Hi, I’m Lizzie the Lice Lady(In BETA, still learning).   I can help you with the following 
+10/03/2018, 17:20:15 (T0+0000ms) 	 | INFO | Bot said: Hi, I’m Lizzie the Lice Lady(In BETA, still learning).   I can help you with the following 
+10/04/2018, 00:51:19 (T0+0000ms) 	 | INFO | Bot said: Hi, I’m Lizzie the Lice Lady(In BETA, still learning).   I can help you with the following 
+

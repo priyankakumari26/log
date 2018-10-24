@@ -1,0 +1,131 @@
+.main-div{
+    border-bottom: 1px solid black;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.from-input {
+    margin-right: 50px;
+    border: 1px solid #c4c4c4;
+    border-radius: 5px;
+    background-color: #fff;
+    padding: 3px 5px;
+    box-shadow: inset 0 3px 6px rgba(0,0,0,0.1);
+    width: 190px;
+}
+
+.btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+    background-color: RoyalBlue;
+}
+.chat-body,.message_type {
+    margin-left: 10px;
+}
+.chatbody_diff{
+    display: flex;
+    flex-direction: column;
+    .chat-body{
+        padding: 5px 0;
+        margin-left: 50px;
+    }
+}
+// .chat-wrapper {
+//     height: 200px;
+//     background: #f9f9f9;
+//     width: 500px;
+//     box-shadow: 4px 3px 2px lightgrey;
+// }
+.message_type{
+    background: #819fbd;
+    text-transform: uppercase;
+    color:#fff;
+    padding: 3px 10px;
+    border-radius: 4px;
+    margin-left: 50px;
+}
+.incoming-chat {
+    margin: 10px;
+    //padding: 5px;
+    // background: #bcd4ec;
+    width: 70%;
+    border-radius: 7px;
+    float: left;
+    display:flex;   
+    align-items: center;
+    div{
+        font-size: 15px;
+    }
+    .date_text{
+        white-space: nowrap;
+    }
+}
+.outgoing-chat {
+    margin: 10px;
+   // padding: 5px;
+    background: #e8eac6;
+    width: 70%;
+    border-radius: 7px;
+    float: right;
+    div{
+        font-size: 15px;
+    }
+}
+
+.filter{
+    margin: 0 50px 0 50px;
+    height: 26px;
+    width: 70px;
+    background: #819fbd;
+    border: 1px solid #c4c4c4;
+    border-radius: 5px;
+}
+.download{
+    //margin: 0 50px 0 50px;
+    height: 26px;
+    width: 80px;
+    background: #819fbd;
+    border: 1px solid #c4c4c4;
+    border-radius: 5px;
+}
+.header-chat{
+    margin-left: 90px;
+    display: flex;
+}
+.header-date{
+    margin-left: 50px;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+.header-logtype{
+    margin-left: 110px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.header-con{
+    margin-left: 110px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.pagination{
+    position: fixed;
+    bottom: 40px;
+    width: 100vw;
+    background: white;
+    margin: 0px;
+    padding: 10px;
+}
+.msgtext{
+    p{
+     display: inline;
+    }
+}

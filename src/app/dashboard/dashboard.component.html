@@ -1,0 +1,40 @@
+<body>
+  <div class="main-div">
+    From:
+    <input class="from-input" type="date" name="from_date" [ngModel]="from_date | date:'yyyy-MM-dd'" (ngModelChange)="from_date = $event"> To:
+    <input class="from-input" type="date" name="to_date" [ngModel]="to_date | date:'yyyy-MM-dd'" (ngModelChange)="to_date = $event">
+    <button class="filter" (click)="filter()">Filter</button>
+    <button class="download" (click)="download()">Download</button>
+  </div>
+  <div *ngIf="msgList.length > 0;then showlog else hidelog"></div>
+  <ng-template #showlog>
+    <div class="header-chat">
+      <div class="header-date">Date</div>
+      <div class="header-logtype">Log type</div>
+      <div class="header-con">Conversation</div>
+    </div>
+    <div id="parent">
+    </div>
+    <div id="content3" class="chat-body" *ngFor="let msg of msgList | paginate: { itemsPerPage: 8, currentPage: p } | orderBy: 'time.date': true">
+      <div *ngIf="msg.msgType !== 'ERROR'">
+        <div class="incoming-chat">
+          <div class="date_text">{{msg["time"]["date"] | date:"MM/dd/yyyy, HH:mm:ss"}}</div>
+          <div class="message_type">{{msg["msgType"]}}</div>
+          <div class="chatbody_diff">
+            <div class="chat-body" *ngFor="let text of msg.msgText">
+              <div class="msgtext">
+                <p style=" font-weight: bold;">{{text.userName}}</p>
+                <p>{{text.message}}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <pagination-controls class="pagination" (pageChange)="p = $event"></pagination-controls>
+  </ng-template>
+  <ng-template #hidelog>
+    <span>Log is not available...........</span>
+  </ng-template>
+
+</body>

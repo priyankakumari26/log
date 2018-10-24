@@ -1,0 +1,15 @@
+09/20/2018, 6:24:15 (T0+0000ms) 	 | ERROR | (node:616) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 exit listeners added. Use emitter.setMaxListeners() to increase limit
+
+09/20/2018, 07:52:59 (T0+0000ms) 	 | ERROR | (node:3728) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 exit listeners added. Use emitter.setMaxListeners() to increase limit
+
+09/20/2018, 18:37:49 (T0+0000ms) 	 | INFO | User said: Trabajo periódicos regionales y todo tipo de impresión en tarjetas de presentación camisas y letrero\n\n Bot said: Sorry, I didn’t understand your question. Can you please try rephrasing?
+
+09/20/2018, 18:50:23 (T0+0000ms) 	 | INFO | User said: Im sale  impresión on banner,flyer  shirts And more \n\n Bot said: Sorry, I didn’t understand your question. Can you please try rephrasing?
+
+09/20/2018, 18:51:09 (T0+0000ms) 	 | INFO | User said: Forget \n\n Bot said: Sorry, I didn’t understand your question. Can you please try rephrasing?
+
+09/22/2018, 17:47:11 (T0+0000ms) 	 | INFO | User said: 8/23/17 7:33:32 AM: ‪+1 (786) 227‑7052‬: Leeeeeloooooooo, estoy con la boca abierta, me funciono!!  CON FE!  Para conseguir algo que nunca tuviste, tienes que hacer algo que nunca has hecho. Cuando Dios te quita algo de tu mano, El no te está castigando, sino simplemente abriendo tus manos para recibir algo mejor. Concéntrate en esta frase: "La voluntad de Dios nunca te lleva donde la gracia de Dios no te proteja". Algo bueno va a pasar hoy, algo que has estado esperando escuchar. Por favor, no la rompas. Solo 27 palabras, "Dios, Padre, camina por mi casa y llévate todas mis preocupaciones y enfermedades, y por favor, vigila y cura a mi familia en tu nombre, amen". Una bendición viene a ti en la forma de un nuevo trabajo, una casa, el matrimonio o financieramente. No la rompas o hagas preguntas, esta es una prueba. Dios viene primero en tu vida? Si es así, deja lo que estás haciendo y envíalo a todos tus contactó. Si lo rechazas! recuerda Jesus dijo: si...me niegas entre las personas,te negare frente a mi padre.  Dentro de 4 minutos te diran:  Lo que esperabas.. no preguntes quien.\n\n Bot said: Sorry, I didn’t understand your question. Please Connect with us here: https://www.licefreee.com/en/contact .
+
+09/24/2018, 18:44:06 (T0+0000ms) 	 | INFO | Bot said: Hi, I’m Lizzie the Lice Lady(In BETA, still learning).   I can help you with the following 
+
+
